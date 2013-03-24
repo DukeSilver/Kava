@@ -1,4 +1,4 @@
 Kava
 ====
 
-Project work with Kawa members 
+Project work with Kawa members.
